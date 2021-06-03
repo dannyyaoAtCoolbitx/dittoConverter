@@ -1,0 +1,190 @@
+{
+  "project_name": "proj_example",
+  "frames": {
+    "ct_0_1_0": {
+      "frameName": "0-1-0",
+      "blocks": {},
+      "otherText": {
+        "ct_0_title_addCustomToken": {
+          "text": "添加自選代幣",
+          "variants": {
+            "english": "Add Custom Token"
+          }
+        },
+        "ct_0_title_network": {
+          "text": "網路",
+          "variants": {
+            "english": "Network"
+          }
+        },
+        "cmm_default": {
+          "text": "預設",
+          "variants": {
+            "english": "Default"
+          },
+          "tags": [
+            "CMM"
+          ]
+        },
+        "ct_0_title_contract": {
+          "text": "合約地址",
+          "variants": {
+            "english": "Contract Address"
+          }
+        },
+        "ct_0_con_des_contract": {
+          "text": "合約地址",
+          "variants": {
+            "english": "Contract Address"
+          }
+        },
+        "cmm_paste": {
+          "text": "貼上",
+          "variants": {
+            "english": "Paste"
+          },
+          "tags": [
+            "CMM"
+          ]
+        },
+        "ct_0_button_title_add": {
+          "text": "添加",
+          "variants": {
+            "english": "Add"
+          }
+        },
+        "ct_0_button_title_faqLink": {
+          "text": "如何添加自選代幣？",
+          "variants": {
+            "english": "How to add custom token"
+          }
+        }
+      }
+    },
+    "ct_0_2_0": {
+      "frameName": "0-2-0",
+      "blocks": {},
+      "otherText": {
+        "text_60a2188d35eccb0114c00e81": {
+          "text": "網路",
+          "variants": {
+            "english": "Network"
+          },
+          "notes": "共用 ct_0_title_network"
+        },
+        "text_60a2188d35eccb0114c00e7d": {
+          "text": "預設",
+          "variants": {
+            "english": "Default"
+          },
+          "notes": "共用 cmm_default"
+        }
+      }
+    },
+    "ct_0_3_0": {
+      "frameName": "0-3-0",
+      "blocks": {},
+      "otherText": {
+        "ct_0_con_title_scanContract": {
+          "text": "代幣合約地址",
+          "variants": {
+            "english": "Token Contract Address"
+          }
+        },
+        "ct_0_con_des_scanInfo": {
+          "text": "請掃瞄合約地址的 QR code",
+          "variants": {
+            "english": "Please scan the QR code of the token contract address"
+          }
+        }
+      }
+    },
+    "ct_1_1_0": {
+      "frameName": "1-1-0",
+      "blocks": {},
+      "otherText": {
+        "cmm_plzWait": {
+          "text": "請稍候...",
+          "variants": {
+            "english": "Please Wait..."
+          },
+          "tags": [
+            "CMM"
+          ]
+        },
+        "ct_1_con_des_detecting": {
+          "text": "正在辨識中...",
+          "variants": {
+            "english": "Processing..."
+          }
+        }
+      }
+    },
+    "ct_1_2_0": {
+      "frameName": "1-2-0",
+      "blocks": {},
+      "otherText": {
+        "ct_1_con_title_name": {
+          "text": "幣種名稱",
+          "variants": {
+            "english": "Token Name"
+          }
+        },
+        "ct_1_con_title_symbol": {
+          "text": "幣種簡稱",
+          "variants": {
+            "english": "Token Symbol"
+          }
+        },
+        "ct_1_con_title_type": {
+          "text": "分類",
+          "variants": {
+            "english": "Token Type"
+          }
+        }
+      }
+    },
+    "ct_X_2_0": {
+      "frameName": "X-2-0",
+      "blocks": {},
+      "otherText": {
+        "ct_X_con_title_invalidAddress": {
+          "text": "無效的地址",
+          "variants": {
+            "english": "Invalid Address"
+          }
+        },
+        "ct_X_con_des_tryAgain": {
+          "text": "請檢查格式或再試一次",
+          "variants": {
+            "english": "Please check the format or try again"
+          }
+        }
+      }
+    },
+    "ct_X_3_0": {
+      "frameName": "X-3-0",
+      "blocks": {},
+      "otherText": {
+        "ct_X_con_title_proOnly": {
+          "text": "僅相容 CoolWallet Pro",
+          "variants": {
+            "english": "Only Available With CoolWallet Pro"
+          }
+        },
+        "ct_X_con_des_proOnly": {
+          "text": "此裝置目前配對的卡片為 CoolWallet S，如果要使用 %{tokenType} 幣種，請配對 CoolWallet Pro。",
+          "variants": {
+            "english": "The device is paired with CoolWallet S, if you would like to add %{tokenType} token, please pair with CoolWallet Pro."
+          }
+        },
+        "ct_X_con_button_title_more": {
+          "text": "更多產品資訊",
+          "variants": {
+            "english": "More"
+          }
+        }
+      }
+    }
+  }
+}
